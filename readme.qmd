@@ -1,6 +1,6 @@
 ---
 title: "The Smart Creator Strategy: What Actually Drives YouTube Views?"
-fformat: gfm
+format: gfm
 execute: 
   warning: false
   message: false
@@ -56,7 +56,7 @@ import re
 from scipy.stats import ttest_ind
 
 video = pd.read_csv('USvideos.csv')
-````
+```
 
 ### Initial Inspection
 
